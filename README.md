@@ -7,8 +7,7 @@
 ## Built With
 
 - HTML
-- CSS
-- BOOTSRAP
+- BOOTSTRAP
 - VScode
 
 ## Authors
@@ -21,9 +20,9 @@
 
 👤 **Diego Yon**
 
-- GitHub: [@vitorguedesmadeira](https://github.com/VitorGuedesMadeira)
-- Twitter: [@CDahguedes](https://twitter.com/CDahguedes)
-- LinkedIn: (https://www.linkedin.com/in/v%C3%ADtor-guedes-madeira-1691aa15a/)
+- GitHub: [@diegoyon](https://github.com/diegoyon)
+- Twitter: [@diegoyon](https://twitter.com/diegoyon)
+- LinkedIn: [Diego Yon](https://www.linkedin.com/in/diego-yon-9311aa41/)
 
 
 ## 🤝 Contributing
